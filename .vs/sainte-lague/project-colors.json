@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "087e083b-0526-44f1-ad9b-6c80692f18d8": {
+      "ProjectGuid": "087e083b-0526-44f1-ad9b-6c80692f18d8",
+      "DisplayName": "Election calc",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
